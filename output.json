@@ -1,0 +1,382 @@
+[
+    {
+        "Symbol": "SHOP",
+        "Name": "Shopify Inc"
+    },
+    {
+        "Symbol": "BILI",
+        "Name": "Bilibili Inc ADR"
+    },
+    {
+        "Symbol": "VNET",
+        "Name": "21Vianet Group Inc"
+    },
+    {
+        "Symbol": "ASPU",
+        "Name": "Aspen Group Inc"
+    },
+    {
+        "Symbol": "ETSY",
+        "Name": "Etsy Inc"
+    },
+    {
+        "Symbol": "LLNW",
+        "Name": "Limelight Networks"
+    },
+    {
+        "Symbol": "TTD",
+        "Name": "Trade Desk Inc"
+    },
+    {
+        "Symbol": "AKAM",
+        "Name": "Akamai Technologies"
+    },
+    {
+        "Symbol": "ZS",
+        "Name": "Zscaler Inc"
+    },
+    {
+        "Symbol": "GOOG",
+        "Name": "Alphabet Cl C"
+    },
+    {
+        "Symbol": "GOOGL",
+        "Name": "Alphabet Cl A"
+    },
+    {
+        "Symbol": "FB",
+        "Name": "Facebook Inc"
+    },
+    {
+        "Symbol": "DBX",
+        "Name": "Dropbox Inc"
+    },
+    {
+        "Symbol": "SVMK",
+        "Name": "Svmk Inc"
+    },
+    {
+        "Symbol": "GIGM",
+        "Name": "Gigamedia Ltd"
+    },
+    {
+        "Symbol": "MTCH",
+        "Name": "Match Group Inc CS"
+    },
+    {
+        "Symbol": "ZG",
+        "Name": "Zillow Grp Inc Cl A"
+    },
+    {
+        "Symbol": "ANGI",
+        "Name": "Homeservices Inc"
+    },
+    {
+        "Symbol": "WHLM",
+        "Name": "Wilhelmina Intl"
+    },
+    {
+        "Symbol": "CTK",
+        "Name": "Cootek [Cayman] Inc"
+    },
+    {
+        "Symbol": "UBER",
+        "Name": "Uber Technologies Inc"
+    },
+    {
+        "Symbol": "LPSN",
+        "Name": "Liveperson Inc"
+    },
+    {
+        "Symbol": "BIDU",
+        "Name": "Baidu Inc"
+    },
+    {
+        "Symbol": "ATHM",
+        "Name": "Autohome Inc"
+    },
+    {
+        "Symbol": "TIVO",
+        "Name": "Tivo Corp"
+    },
+    {
+        "Symbol": "HSTM",
+        "Name": "Healthstream Inc"
+    },
+    {
+        "Symbol": "YY",
+        "Name": "YY Inc"
+    },
+    {
+        "Symbol": "UPWK",
+        "Name": "Upwork Inc"
+    },
+    {
+        "Symbol": "XNET",
+        "Name": "Xunlei Ltd ADR"
+    },
+    {
+        "Symbol": "CANG",
+        "Name": "Cango Inc ADR"
+    },
+    {
+        "Symbol": "SOHU",
+        "Name": "Sohu.com Inc"
+    },
+    {
+        "Symbol": "VIOT",
+        "Name": "Viomi Technology Co. Ltd ADR"
+    },
+    {
+        "Symbol": "SYNC",
+        "Name": "Synacor Inc"
+    },
+    {
+        "Symbol": "STG",
+        "Name": "Sunlands Online Education Group ADR"
+    },
+    {
+        "Symbol": "UXIN",
+        "Name": "Uxin Ltd Ads"
+    },
+    {
+        "Symbol": "BLIN",
+        "Name": "Bridgeline Digital"
+    },
+    {
+        "Symbol": "LYFT",
+        "Name": "Lyft Inc Cl A"
+    },
+    {
+        "Symbol": "JRJC",
+        "Name": "China Finance Online"
+    },
+    {
+        "Symbol": "EB",
+        "Name": "Eventbrite Inc"
+    },
+    {
+        "Symbol": "TRUE",
+        "Name": "Truecar Inc"
+    },
+    {
+        "Symbol": "TRVG",
+        "Name": "Trivago NV"
+    },
+    {
+        "Symbol": "LEAF",
+        "Name": "Leaf Group Ltd"
+    },
+    {
+        "Symbol": "MCHX",
+        "Name": "Marchex Inc"
+    },
+    {
+        "Symbol": "YRD",
+        "Name": "Yirendai Ltd"
+    },
+    {
+        "Symbol": "LTRPA",
+        "Name": "Liberty Tripadv A"
+    },
+    {
+        "Symbol": "AAPL",
+        "Name": "Apple Inc"
+    },
+    {
+        "Symbol": "DDD",
+        "Name": "3D Systems Corp"
+    },
+    {
+        "Symbol": "HPQ",
+        "Name": "HP Inc"
+    },
+    {
+        "Symbol": "ICAD",
+        "Name": "Icad Inc"
+    },
+    {
+        "Symbol": "CTXS",
+        "Name": "Citrix Systems Inc"
+    },
+    {
+        "Symbol": "SREV",
+        "Name": "Servicesrce Intl Inc"
+    },
+    {
+        "Symbol": "SPNS",
+        "Name": "Sapiens Intl Cp NV"
+    },
+    {
+        "Symbol": "SLP",
+        "Name": "Simulations Plus Inc"
+    },
+    {
+        "Symbol": "MSFT",
+        "Name": "Microsoft Corp"
+    },
+    {
+        "Symbol": "SNPS",
+        "Name": "Synopsys Inc"
+    },
+    {
+        "Symbol": "ADBE",
+        "Name": "Adobe Systems Inc"
+    },
+    {
+        "Symbol": "ANSS",
+        "Name": "Ansys Inc"
+    },
+    {
+        "Symbol": "CDNS",
+        "Name": "Cadence Design Sys"
+    },
+    {
+        "Symbol": "NUAN",
+        "Name": "Nuance Communicatns"
+    },
+    {
+        "Symbol": "INTU",
+        "Name": "Intuit Inc"
+    },
+    {
+        "Symbol": "DSGX",
+        "Name": "Descartes Sys Group"
+    },
+    {
+        "Symbol": "AMSWA",
+        "Name": "Amer Software Inc"
+    },
+    {
+        "Symbol": "ADSK",
+        "Name": "Autodesk Inc"
+    },
+    {
+        "Symbol": "CRM",
+        "Name": "Salesforce.com Inc"
+    },
+    {
+        "Symbol": "PEGA",
+        "Name": "Pegasystems Inc"
+    },
+    {
+        "Symbol": "NEON",
+        "Name": "Neonode Inc"
+    },
+    {
+        "Symbol": "SSNC",
+        "Name": "SS&C Technologies"
+    },
+    {
+        "Symbol": "ORCL",
+        "Name": "Oracle Corp"
+    },
+    {
+        "Symbol": "MGIC",
+        "Name": "Magic Software Entpr"
+    },
+    {
+        "Symbol": "SMSI",
+        "Name": "Smith Micro Software"
+    },
+    {
+        "Symbol": "RST",
+        "Name": "Rosetta Stone"
+    },
+    {
+        "Symbol": "PCYG",
+        "Name": "Park City Group"
+    },
+    {
+        "Symbol": "MANH",
+        "Name": "Manhattan Assoc"
+    },
+    {
+        "Symbol": "OTEX",
+        "Name": "Open Text Cp"
+    },
+    {
+        "Symbol": "GSB",
+        "Name": "Globalscape"
+    },
+    {
+        "Symbol": "QADB",
+        "Name": "Q A D Inc Cl B"
+    },
+    {
+        "Symbol": "EPAY",
+        "Name": "Bottomline Tech IN"
+    },
+    {
+        "Symbol": "SAP",
+        "Name": "SAP Ag"
+    },
+    {
+        "Symbol": "PRGS",
+        "Name": "Progress Software"
+    },
+    {
+        "Symbol": "MSTR",
+        "Name": "Microstrategy Cl A"
+    },
+    {
+        "Symbol": "VMW",
+        "Name": "Vmware Inc"
+    },
+    {
+        "Symbol": "BSQR",
+        "Name": "Bsquare Corp"
+    },
+    {
+        "Symbol": "PTC",
+        "Name": "Ptc Inc"
+    },
+    {
+        "Symbol": "VRNT",
+        "Name": "Verint Systems Inc"
+    },
+    {
+        "Symbol": "AZPN",
+        "Name": "Aspen Technology"
+    },
+    {
+        "Symbol": "OPRX",
+        "Name": "Optimizerx Corp"
+    },
+    {
+        "Symbol": "CVLT",
+        "Name": "Commvault Systems"
+    },
+    {
+        "Symbol": "CSOD",
+        "Name": "Cornerstone Ondemand"
+    },
+    {
+        "Symbol": "ACIW",
+        "Name": "Aci Worldwide Inc"
+    },
+    {
+        "Symbol": "AVID",
+        "Name": "Avid Tech Inc"
+    },
+    {
+        "Symbol": "BLKB",
+        "Name": "Blackbaud Inc"
+    },
+    {
+        "Symbol": "CPAH",
+        "Name": "Counterpath Corp"
+    },
+    {
+        "Symbol": "NTWK",
+        "Name": "Netsol Tech Inc"
+    },
+    {
+        "Symbol": "PRO",
+        "Name": "Pros Holdings"
+    },
+    {
+        "Symbol": "GVP",
+        "Name": "GSE Systems"
+    }
+]
